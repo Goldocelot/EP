@@ -1,0 +1,13 @@
+name: EP
+main: be.goldocelot.ep.Main
+author: _goldocelot_
+version: 1.0
+commands:
+ entreprise:
+  description: Cette commande permet de gerer l'entreprises.
+ contrat:
+  description: Cette commande permet de gerer les contrats.
+ batiment:
+  description: Cette commande permet de gerer les batiments.
+ ep:
+  description: Cette commande permet de gerer son identite de gerant.
